@@ -96,6 +96,11 @@ public class NetworkDashboardFragment extends DashboardFragment implements
         Intent intent = new Intent(context, SettingsDumpService.class);
         intent.putExtra(SettingsDumpService.EXTRA_KEY_SHOW_NETWORK_DUMP, true);
         context.startService(intent);
+
+        ConnectivityCheckPreferenceController connectivityCheck =
+                new ConnectivityCheckPreferenceController(context);
+        controllers.add(connectivityCheck);
+
         return controllers;
     }
 
