@@ -146,4 +146,10 @@
     <string name="app_lock_timeout_5min">5 minutes</string>
     <string name="app_lock_timeout_10min">10 minutes</string>
     <string name="app_lock_timeout_30min">30 minutes</string>
+
+    <!-- AdGuard DNS Option -->
+    <string name="private_dns_mode_adguard" translatable="false">AdGuard DNS</string>
+
+    <!-- AdGuard DNS hostname -->
+    <string name="private_dns_hostname_adguard" translatable="false">dns.adguard.com</string>
 </resources>
