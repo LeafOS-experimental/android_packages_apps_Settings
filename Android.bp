@@ -110,6 +110,7 @@ android_library {
         "device_policy_aconfig_flags_lib",
         "kotlinx-coroutines-core",
         "kotlinx-coroutines-android",
+        "SystemUISharedLib",
         "vendor.lineage.fastcharge-V1.0-java",
         "vendor.lineage.touch-V1.0-java",
     ],
