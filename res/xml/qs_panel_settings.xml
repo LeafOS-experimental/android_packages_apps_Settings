@@ -21,6 +21,30 @@
     android:title="@string/qs_panel_options_title">
 
     <PreferenceCategory
+        android:title="@string/category_name_qs_brightness_slider">
+
+        <com.android.settings.support.SecureSettingListPreference
+            android:key="qs_show_brightness_slider"
+            android:title="@string/qs_brightness_slider_title"
+            android:entries="@array/qs_brightness_slider_entries"
+            android:entryValues="@array/qs_brightness_slider_values"
+            android:defaultValue="1" />
+
+        <com.android.settings.support.SecureSettingListPreference
+            android:key="qs_brightness_slider_position"
+            android:title="@string/qs_brightness_slider_position_title"
+            android:entries="@array/qs_brightness_slider_position_entries"
+            android:entryValues="@array/qs_brightness_slider_position_values"
+            android:defaultValue="0" />
+
+        <com.android.settings.support.SecureSettingSwitchPreference
+            android:key="qs_show_auto_brightness"
+            android:title="@string/qs_auto_brightness_title"
+            android:summary="@string/qs_auto_brightness_summary"
+            android:defaultValue="true" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
         android:title="@string/category_name_qs_tiles">
 
         <com.android.settings.support.SecureSettingListPreference
