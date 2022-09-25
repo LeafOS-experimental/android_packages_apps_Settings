@@ -81,6 +81,11 @@
             android:title="@string/lockscreen_double_line_clock_setting_toggle"
             android:summary="@string/lockscreen_double_line_clock_summary"
             settings:controller="com.android.settings.display.LockscreenClockPreferenceController" />
+
+        <com.android.settings.support.SystemSettingSwitchPreference
+            android:key="hide_powermenu_lockscreen"
+            android:title="@string/hide_powermenu_lockscreen"
+            android:defaultValue="false" />
     </PreferenceCategory>
 
     <PreferenceCategory
