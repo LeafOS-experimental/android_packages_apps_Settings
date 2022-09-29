@@ -87,6 +87,13 @@
             settings:keywords="@string/keywords_dark_ui_mode"/>
 
         <Preference
+            android:key="qs_panel_options"
+            android:persistent="false"
+            android:title="@string/qs_panel_options_title"
+            android:summary="@string/qs_panel_options_summary"
+            android:fragment="org.leafos.settings.qs.QSPanelSettings" />
+
+        <Preference
             android:fragment="com.android.settings.accessibility.TextReadingPreferenceFragment"
             android:key="text_reading_options"
             android:persistent="false"
