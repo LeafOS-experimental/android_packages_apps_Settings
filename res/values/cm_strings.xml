@@ -85,6 +85,9 @@
     <string name="display_rotation_180_title">180 degrees</string>
     <string name="display_rotation_270_title">270 degrees</string>
 
+    <!-- Screen resolution -->
+    <string name="custom_screen_resolution_title">Custom screen resolution</string>
+
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Tap to show info</string>
 
