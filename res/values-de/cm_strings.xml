@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017-2023 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="fast_charging_title">Schnelles Laden</string>
+    <string name="fast_charging_summary">Deaktivieren, um die vom Gerät beim Laden erzeugte Wärme zu reduzieren oder die Lebensdauer des Akkus zu verlängern</string>
+    <string name="high_touch_sensitivity_title">Hohe Touch-Empfindlichkeit</string>
+    <string name="high_touch_sensitivity_summary">Touch-Empfindlichkeit erhöhen, um den Touchscreen auch mit Handschuhen bedienen zu können</string>
+    <string name="berry_black_theme_title">Reines Schwarz</string>
+    <string name="berry_black_theme_summary">Rein schwarzer Hintergrund für dunkles Design</string>
+    <string name="lock_settings_picker_pattern_size_message">Größe des Musters auswählen</string>
+    <string name="lockpattern_settings_enable_error_path_title">Sperrmuster-Fehler anzeigen</string>
+    <string name="lockpattern_settings_enable_dots_title">Sperrmuster-Punkte anzeigen</string>
+    <string name="max_refresh_rate_title">Maximale Aktualisierungsrate</string>
+    <string name="min_refresh_rate_title">Minimale Aktualisierungsrate</string>
+    <string name="unlock_scramble_pin_layout_title">Zufällige Anordnung</string>
+    <string name="unlock_scramble_pin_layout_summary">Bei jedem Entsperrversuch die Ziffernanordnung zufällig neu wählen</string>
+    <string name="tethering_allow_vpn_upstreams_title">Clients erlauben VPN zu verwenden</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Erlaubt Hotspot-Clients die VPN-Verbindungen dieses Gerätes für die Upstream-Konnektivität zu verwenden</string>
+    <string name="assisted_gps">Unterstütztes GPS verwenden</string>
+    <string name="assisted_gps_summary">Satellitenhilfsdaten aus dem Internet herunterladen, die den Startvorgang von GPS erheblich verbessern können. Für Notrufe ist das unterstützte GPS immer erlaubt.</string>
+    <string name="backup_transport_setting_label">Backup-Anbieter ändern</string>
+    <string name="backup_transport_title">Backup-Anbieter auswählen</string>
+    <string name="power_menu_advanced_restart_title">Erweiterter Neustart</string>
+    <string name="power_menu_advanced_restart_summary">Bei entsperrtem Bildschirm dem Neustartmenü Optionen für Neustart in Recovery oder in Bootloader hinzufügen</string>
+    <string name="display_rotation_title">Bildschirmausrichtung</string>
+    <string name="display_rotation_enabled">Automatisch drehen ist aktiviert</string>
+    <string name="display_rotation_disabled">Automatisch drehen ist deaktiviert</string>
+    <string name="display_rotation_unit">Grad</string>
+    <string name="display_rotation_category_title">Bei Drehung um</string>
+    <string name="display_rotation_0_title">0 Grad</string>
+    <string name="display_rotation_90_title">90 Grad</string>
+    <string name="display_rotation_180_title">180 Grad</string>
+    <string name="display_rotation_270_title">270 Grad</string>
+    <string name="status_bar_title">Statusleiste</string>
+    <string name="status_bar_system_icons_summary">Festlegen, welche Statusleistensymbole angezeigt werden</string>
+    <string name="charging_control_title">Ladekontrolle</string>
+    <string name="charging_control_enable_title">Ladekontrolle aktivieren</string>
+    <string name="charging_control_mode_title">Lademodus</string>
+    <string name="charging_control_mode_auto_title">Automatischer Zeitplan</string>
+    <string name="charging_control_mode_auto_summary">Startzeitpunkt für den Ladevorgang anhand der eingestellten Alarme automatisch bestimmen</string>
+    <string name="charging_control_mode_custom_title">Benutzerdefinierter Zeitplan</string>
+    <string name="charging_control_mode_custom_summary">Zielzeit bis zur vollständigen Aufladung festlegen</string>
+    <string name="charging_control_mode_limit_title">Ladung begrenzen</string>
+    <string name="charging_control_mode_limit_summary">Aufladung auf einen bestimmten Prozentsatz begrenzen</string>
+    <string name="charging_control_start_time_title">Startzeit</string>
+    <string name="charging_control_start_time_summary">Ladekontrolle wird aktiviert, wenn du nach %s mit dem Laden beginnst</string>
+    <string name="charging_control_target_time_title">Zielzeit bis zur vollständigen Aufladung</string>
+    <string name="charging_control_target_time_summary">Akku wird bis %s vollständig geladen sein</string>
+    <string name="charging_control_limit_title">Begrenzung</string>
+    <string name="reset">Zurücksetzen</string>
+</resources>

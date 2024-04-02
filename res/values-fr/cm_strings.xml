@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017-2023 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="fast_charging_title">Charge rapide</string>
+    <string name="fast_charging_summary">Désactiver pour réduire la chaleur produite par l\'appareil pendant la charge ou pour prolonger la durée de vie de la batterie</string>
+    <string name="high_touch_sensitivity_title">Haute sensibilité tactile</string>
+    <string name="high_touch_sensitivity_summary">Augmenter la sensibilité de l\'écran permettant ainsi le port de gants</string>
+    <string name="berry_black_theme_title">Noir pur</string>
+    <string name="berry_black_theme_summary">Fond noir pur pour le thème sombre</string>
+    <string name="lock_settings_picker_pattern_size_message">Choisissez une taille de modèle</string>
+    <string name="lockpattern_settings_enable_error_path_title">Afficher l\'erreur de schéma</string>
+    <string name="lockpattern_settings_enable_dots_title">Afficher les points du schéma</string>
+    <string name="max_refresh_rate_title">Taux de rafraîchissement maximal</string>
+    <string name="min_refresh_rate_title">Taux de rafraîchissement minimum</string>
+    <string name="unlock_scramble_pin_layout_title">Disposition aléatoire</string>
+    <string name="unlock_scramble_pin_layout_summary">Disposer aléatoirement les touches lors du déverrouillage</string>
+    <string name="tethering_allow_vpn_upstreams_title">Autoriser les clients à utiliser des VPNs</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Permettre aux clients de point d\'accès d\'utiliser les connexions VPN de cet appareil pour la connectivité en amont</string>
+    <string name="assisted_gps">Utiliser le GPS assisté</string>
+    <string name="assisted_gps_summary">Télécharger les données d\'assistance par satellite à partir d\'Internet peut grandement améliorer les performances de démarrage du GPS. Pour les appels d\'urgence, le GPS assisté est toujours autorisé.</string>
+    <string name="backup_transport_setting_label">Modifier le fournisseur de sauvegarde</string>
+    <string name="backup_transport_title">Sélectionner un fournisseur de sauvegarde</string>
+    <string name="power_menu_advanced_restart_title">Redémarrage avancé</string>
+    <string name="power_menu_advanced_restart_summary">Inclure les options de redémarrage en modes \"récupération\" et \"chargeur de démarrage\" dans le menu marche/arrêt lorsque l\'appareil est déverrouillé</string>
+    <string name="display_rotation_title">Paramètres de rotation</string>
+    <string name="display_rotation_enabled">Rotation automatique activée</string>
+    <string name="display_rotation_disabled">Rotation automatique désactivée</string>
+    <string name="display_rotation_unit">degrés</string>
+    <string name="display_rotation_category_title">Modes de rotation</string>
+    <string name="display_rotation_0_title">0 degré</string>
+    <string name="display_rotation_90_title">90 degrés</string>
+    <string name="display_rotation_180_title">180 degrés</string>
+    <string name="display_rotation_270_title">270 degrés</string>
+    <string name="status_bar_title">Barre d\'état</string>
+    <string name="status_bar_system_icons_summary">Choisir les icônes à afficher dans la barre d\'état</string>
+    <string name="charging_control_title">Contrôle de la charge</string>
+    <string name="charging_control_enable_title">Activer le contrôle de la charge</string>
+    <string name="charging_control_mode_title">Mode de Charge</string>
+    <string name="charging_control_mode_auto_title">Planification automatique</string>
+    <string name="charging_control_mode_auto_summary">Déterminer automatiquement quand démarrer la charge en fonction des alarmes définies</string>
+    <string name="charging_control_mode_custom_title">Planification personnalisée</string>
+    <string name="charging_control_mode_custom_summary">Définir l\'heure de fin de la charge complète</string>
+    <string name="charging_control_mode_limit_title">Limiter la charge</string>
+    <string name="charging_control_mode_limit_summary">Limiter la charge à un certain pourcentage</string>
+    <string name="charging_control_start_time_title">Heure de départ</string>
+    <string name="charging_control_start_time_summary">Le contrôle de charge s\'active lorsque vous commencez à charger après %s</string>
+    <string name="charging_control_target_time_title">Heure de fin de la charge complète</string>
+    <string name="charging_control_target_time_summary">La batterie sera complètement chargée dans %s</string>
+    <string name="charging_control_limit_title">Limite</string>
+    <string name="reset">Réinitialiser</string>
+</resources>

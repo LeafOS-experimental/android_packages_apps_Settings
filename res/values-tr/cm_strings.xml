@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017-2023 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="fast_charging_title">Hızlı şarj oluyor</string>
+    <string name="fast_charging_summary">Cihazın şarj ederken ürettiği ısıyı azaltmak veya pilin ömrünü uzatmak için devre dışı bırakın</string>
+    <string name="high_touch_sensitivity_title">Yüksek dokunma hassasiyeti</string>
+    <string name="high_touch_sensitivity_summary">Dokunmatik ekran hassasiyetini arttırarak eldiven ile kullanıma olanak verir</string>
+    <string name="berry_black_theme_title">Saf siyah</string>
+    <string name="berry_black_theme_summary">Karanlık tema için saf siyah arka plan</string>
+    <string name="lock_settings_picker_pattern_size_message">Bir desen boyutu seçin</string>
+    <string name="lockpattern_settings_enable_error_path_title">Desen hatasını göster</string>
+    <string name="lockpattern_settings_enable_dots_title">Desen noktalarını göster</string>
+    <string name="max_refresh_rate_title">En yüksek yenileme hızı</string>
+    <string name="min_refresh_rate_title">Minimum yenileme hızı</string>
+    <string name="unlock_scramble_pin_layout_title">Düzeni karıştır</string>
+    <string name="unlock_scramble_pin_layout_summary">Cihaz kilidini açarken PIN düzenini karıştırır</string>
+    <string name="tethering_allow_vpn_upstreams_title">İstemcilerin VPN kullanmasına izin ver</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Hotspot kullanıcılarının bağlantıları sırasında bu cihazın \u2019s VPN bağlantısını kullanmasına izin ver</string>
+    <string name="assisted_gps_summary">GPS\'inizin başlama süresini büyük ölçüde hızlandırmak için internetten uydu yardım verilerini indirin. Acil durum çağrıları için A-GPS (Yardımlı GPS) her zaman kullanılabilir.</string>
+    <string name="backup_transport_setting_label">Yedekleme sağlayıcısını değiştir</string>
+    <string name="backup_transport_title">Yedekleme sağlayıcısını seçin</string>
+    <string name="power_menu_advanced_restart_title">Gelişmiş yeniden başlatma</string>
+    <string name="power_menu_advanced_restart_summary">Kilit açıldığında kurtarma veya önyükleme modunda yeniden başlatmak için güç menüsüne seçenekler ekler</string>
+    <string name="display_rotation_title">Döndürme ayarları</string>
+    <string name="display_rotation_enabled">Otomatik döndürme etkin</string>
+    <string name="display_rotation_disabled">Otomatik döndürme devre dışı</string>
+    <string name="display_rotation_unit">derece</string>
+    <string name="display_rotation_category_title">Döndürme modları</string>
+    <string name="display_rotation_0_title">0 derece</string>
+    <string name="display_rotation_90_title">90 derece</string>
+    <string name="display_rotation_180_title">180 derece</string>
+    <string name="display_rotation_270_title">270 derece</string>
+    <string name="status_bar_title">Durum çubuğu</string>
+    <string name="status_bar_system_icons_summary">Hangi durum çubuğu simgelerinin gösterildiğini kontrol edin</string>
+    <string name="charging_control_title">Şarj kontrolü</string>
+    <string name="charging_control_enable_title">Şarj kontrolünü etkinleştir</string>
+    <string name="charging_control_mode_title">Şarj modu</string>
+    <string name="charging_control_mode_auto_title">Otomatik planlama</string>
+    <string name="charging_control_mode_auto_summary">Alarm kurulmuş saatlere göre, şarjın ne zaman başlayacağını otomatik belirle </string>
+    <string name="charging_control_mode_custom_title">Özel planlama</string>
+    <string name="charging_control_mode_custom_summary">Tam şarj için bir hedef zaman belirleyin</string>
+    <string name="charging_control_mode_limit_title">Şarjı Kısıtla</string>
+    <string name="charging_control_mode_limit_summary">Şarjı belirli bir yüzdeye kısıtla</string>
+    <string name="charging_control_start_time_title">Başlangıç zamanı</string>
+    <string name="charging_control_start_time_summary">Şarj kontrolü %s saatinden sonra şarj etmeye başladığında aktive edilir</string>
+    <string name="charging_control_target_time_title">Tam şarj için hedef zaman</string>
+    <string name="charging_control_target_time_summary">Pil şu saatte tamamen şarj olmuş olacak: %s</string>
+    <string name="charging_control_limit_title">Limit</string>
+    <string name="reset">Sıfırla</string>
+</resources>

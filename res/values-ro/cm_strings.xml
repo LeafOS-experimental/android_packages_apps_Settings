@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017-2023 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="fast_charging_title">Încărcare rapidă</string>
+    <string name="fast_charging_summary">Dezactivați pentru a reduce căldura produsă de dispozitiv în timpul încărcării sau pentru a prelungi durata de viață a bateriei</string>
+    <string name="high_touch_sensitivity_title">Sensibilitate tactilă înaltă </string>
+    <string name="high_touch_sensitivity_summary">Crește sensibilitatea ecranului tactil, astfel încât acesta poate fi utilizat în timp ce se poartă mănuși</string>
+    <string name="berry_black_theme_title">Negru pur</string>
+    <string name="berry_black_theme_summary">Fundal negru pur pentru tema întunecată</string>
+    <string name="lock_settings_picker_pattern_size_message">Alegeți dimensiunea modelului</string>
+    <string name="lockpattern_settings_enable_error_path_title">Afișare eroare model</string>
+    <string name="lockpattern_settings_enable_dots_title">Afișare puncte model</string>
+    <string name="max_refresh_rate_title">Rata maximă de împrospătare</string>
+    <string name="min_refresh_rate_title">Rata minimă de împrospătare</string>
+    <string name="unlock_scramble_pin_layout_title">Amestecă așezarea în pagină</string>
+    <string name="unlock_scramble_pin_layout_summary">Amestecă așezarea în pagină a ecranului de PIN atunci când se deblochează aparatul</string>
+    <string name="tethering_allow_vpn_upstreams_title">Permite clienților să utilizeze VPN-uri</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Permite clienților hotspot-ului să utilizeze conexiunile VPN ale acestui dispozitiv pentru conexiunea upstream</string>
+    <string name="assisted_gps">Utilizați GPS asistat</string>
+    <string name="assisted_gps_summary">Descarcă datele de asistență prin satelit de pe internet, care pot îmbunătăți considerabil performanța de pornire a GPS-ului. Pentru apelurile de urgență, GPS-ul asistat este întotdeauna permis.</string>
+    <string name="backup_transport_setting_label">Schimbă furnizorul de backup</string>
+    <string name="backup_transport_title">Selectați furnizorul de backup</string>
+    <string name="power_menu_advanced_restart_title">Repornire avansată</string>
+    <string name="power_menu_advanced_restart_summary">La deblocare, se includ opțiuni în meniul de pornire pentru repornirea în recuperare sau bootloader</string>
+    <string name="display_rotation_title">Setări de rotaţie</string>
+    <string name="display_rotation_enabled">Auto-rotaţia este activată</string>
+    <string name="display_rotation_disabled">Auto-rotaţia este dezactivată</string>
+    <string name="display_rotation_unit">grade</string>
+    <string name="display_rotation_category_title">Moduri de rotire</string>
+    <string name="display_rotation_0_title">0 grade</string>
+    <string name="display_rotation_90_title">90 de grade</string>
+    <string name="display_rotation_180_title">180 de grade</string>
+    <string name="display_rotation_270_title">270 de grade</string>
+    <string name="status_bar_title">Bară de stare</string>
+    <string name="status_bar_system_icons_summary">Controlați care pictograme din bara de stare sunt afișate</string>
+    <string name="charging_control_title">Control încărcare</string>
+    <string name="charging_control_enable_title">Activează controlul încărcării</string>
+    <string name="charging_control_mode_title">Mod de încărcare</string>
+    <string name="charging_control_mode_auto_title">Programare automată</string>
+    <string name="charging_control_mode_auto_summary">Determină automat când se pornește încărcarea pe baza alarmelor setate</string>
+    <string name="charging_control_mode_custom_title">Programare personalizată</string>
+    <string name="charging_control_mode_custom_summary">Setați un timp țintă pentru încărcarea completă</string>
+    <string name="charging_control_mode_limit_title">Limitează încărcarea</string>
+    <string name="charging_control_mode_limit_summary">Limitează încărcarea la un anumit procent</string>
+    <string name="charging_control_start_time_title">Timp începere</string>
+    <string name="charging_control_start_time_summary">Controlul încărcării se activează când începeți încărcarea după %s</string>
+    <string name="charging_control_target_time_title">Timpul țintă până la încărcarea completă</string>
+    <string name="charging_control_target_time_summary">Bateria va fi încărcată complet până la %s</string>
+    <string name="charging_control_limit_title">Limită</string>
+    <string name="reset">Resetați</string>
+</resources>

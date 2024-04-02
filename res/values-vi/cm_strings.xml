@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017-2023 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="fast_charging_title">Đang sạc nhanh</string>
+    <string name="fast_charging_summary">Tắt để giảm nhiệt do thiết bị tạo ra trong khi sạc hoặc để kéo dài tuổi thọ của pin</string>
+    <string name="high_touch_sensitivity_title">Độ nhạy cảm ứng cao</string>
+    <string name="high_touch_sensitivity_summary">Tăng độ nhạy màn hình cảm ứng để nó có thể được sử dụng trong khi đeo găng tay</string>
+    <string name="berry_black_theme_title">Đen tuyền</string>
+    <string name="berry_black_theme_summary">Nền đen tuyền cho chủ đề tối</string>
+    <string name="lock_settings_picker_pattern_size_message">Chọn một kích cỡ mẫu hình</string>
+    <string name="lockpattern_settings_enable_error_path_title">Hiện lỗi mẫu hình</string>
+    <string name="lockpattern_settings_enable_dots_title">Hiện dấu chấm mẫu hình</string>
+    <string name="max_refresh_rate_title">Tốc độ làm mới cao nhất</string>
+    <string name="min_refresh_rate_title">Tốc độ làm mới tối thiểu</string>
+    <string name="unlock_scramble_pin_layout_title">Bố trí linh tinh</string>
+    <string name="unlock_scramble_pin_layout_summary">Bố trí PIN linh tinh khi mở khóa thiết bị</string>
+    <string name="tethering_allow_vpn_upstreams_title">Cho phép máy khách sử dụng VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Cho phép hotspot các máy khách sử dụng các kết nối VPN của thiết bị\u2019 này để kết nối đến máy chủ</string>
+    <string name="assisted_gps">Sử dụng A-GPS</string>
+    <string name="assisted_gps_summary">Tải xuống dữ liệu hỗ trợ vệ tinh từ internet có thể cải thiện đáng kể hiệu suất khởi động GPS. Đối với các cuộc gọi khẩn cấp, A-GPS luôn được phép.</string>
+    <string name="backup_transport_setting_label">Thay đổi nơi lưu trữ dữ liệu sao lưu của bạn</string>
+    <string name="backup_transport_title">Chọn nơi lưu trữ dữ liệu sao lưu</string>
+    <string name="power_menu_advanced_restart_title">Khởi động lại nâng cao</string>
+    <string name="power_menu_advanced_restart_summary">Khi mở khóa, bao gồm các tùy chọn trong trình đơn nguồn để khởi động lại vào chế độ phục hồi hoặc trình nạp khởi động</string>
+    <string name="display_rotation_title">Cài đặt xoay</string>
+    <string name="display_rotation_enabled">Tự động xoay được bật</string>
+    <string name="display_rotation_disabled">Tự động xoay bị tắt</string>
+    <string name="display_rotation_unit">độ</string>
+    <string name="display_rotation_category_title">Chế độ xoay</string>
+    <string name="display_rotation_0_title">0 độ</string>
+    <string name="display_rotation_90_title">90 độ</string>
+    <string name="display_rotation_180_title">180 độ</string>
+    <string name="display_rotation_270_title">270 độ</string>
+    <string name="status_bar_title">Thanh trạng thái</string>
+    <string name="status_bar_system_icons_summary">Kiểm soát các biểu tượng thanh trạng thái được hiển thị</string>
+    <string name="charging_control_title">Kiểm soát sạc</string>
+    <string name="charging_control_enable_title">Kích hoạt kiểm soát sạc</string>
+    <string name="charging_control_mode_title">Chế độ sạc</string>
+    <string name="charging_control_mode_auto_title">Lịch biểu tự động</string>
+    <string name="charging_control_mode_auto_summary">Tự động xác định thời điểm bắt đầu sạc dựa trên báo thức đã đặt</string>
+    <string name="charging_control_mode_custom_title">Tùy chỉnh lịch biểu</string>
+    <string name="charging_control_mode_custom_summary">Đặt thời gian mục tiêu để sạc đầy</string>
+    <string name="charging_control_mode_limit_title">Giới hạn sạc</string>
+    <string name="charging_control_mode_limit_summary">Giới hạn sạc ở một tỷ lệ phần trăm nhất định</string>
+    <string name="charging_control_start_time_title">Thời gian bắt đầu</string>
+    <string name="charging_control_start_time_summary">Điều khiển sạc kích hoạt khi bạn bắt đầu sạc sau %s</string>
+    <string name="charging_control_target_time_title">Thời gian mục tiêu để sạc đầy</string>
+    <string name="charging_control_target_time_summary">Pin sẽ được sạc đầy sau %s</string>
+    <string name="charging_control_limit_title">Giới hạn</string>
+    <string name="reset">Thiết lập lại</string>
+</resources>

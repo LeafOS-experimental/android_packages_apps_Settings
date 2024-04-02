@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017-2023 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="fast_charging_title">Ricjarie rapide</string>
+    <string name="fast_charging_summary">Disabilite par ridusi il calôr prodot dal dispositîf intant de ricjarie o par sprolungjâ la durade de batarie</string>
+    <string name="high_touch_sensitivity_title">Tocjade a alte sensibilitât</string>
+    <string name="high_touch_sensitivity_summary">Aumente la sensibilitât dal schermi tatil par podêlu doprâ cu lis manecis</string>
+    <string name="berry_black_theme_title">Neri pûr</string>
+    <string name="berry_black_theme_summary">Fonts neri pûr pal teme scûr</string>
+    <string name="lock_settings_picker_pattern_size_message">Sielç la dimension de secuence</string>
+    <string name="lockpattern_settings_enable_error_path_title">Mostre erôr de secuence</string>
+    <string name="lockpattern_settings_enable_dots_title">Mostre ponts de secuence</string>
+    <string name="max_refresh_rate_title">Frecuence di inzornament massime</string>
+    <string name="min_refresh_rate_title">Frecuence di inzornament minime</string>
+    <string name="unlock_scramble_pin_layout_title">Messede disposizion</string>
+    <string name="unlock_scramble_pin_layout_summary">Messede la disposizion de tastiere PIN pal sbloc dal dispositîf</string>
+    <string name="tethering_allow_vpn_upstreams_title">Permet ai dispositîfs conetûts di doprâ lis VPNs</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Permet ai dispositîfs conetûts al pont di acès di doprâ lis conessions VPN di chest dispositîf</string>
+    <string name="assisted_gps">Dopre GPS assistût</string>
+    <string name="assisted_gps_summary">Discjame di internet i dâts di assistence satelitâr, che a puedin miorâ une vore lis prestazions di inviament dal GPS. Pes clamadis di emergjence, il GPS assistût al è simpri consintût.</string>
+    <string name="backup_transport_setting_label">Cambie gjestôr dai backups</string>
+    <string name="backup_transport_title">Selezione un gjestôr dai backups</string>
+    <string name="power_menu_advanced_restart_title">Tornâ a inviâ avanzât</string>
+    <string name="power_menu_advanced_restart_summary">Se sblocât, tal menù di impiament a vegnin includudis lis opzions par tornâ a inviâ in modalitât recovery o bootloader</string>
+    <string name="display_rotation_title">Impostazions de rotazion</string>
+    <string name="display_rotation_enabled">La rotazion automatiche e je ative</string>
+    <string name="display_rotation_disabled">La rotazion automatiche e je disativade</string>
+    <string name="display_rotation_unit">grâts</string>
+    <string name="display_rotation_category_title">Modalitâts di rotazion</string>
+    <string name="display_rotation_0_title">0 grâts</string>
+    <string name="display_rotation_90_title">90 grâts</string>
+    <string name="display_rotation_180_title">180 grâts</string>
+    <string name="display_rotation_270_title">270 grâts</string>
+    <string name="status_bar_title">Sbare di stât</string>
+    <string name="status_bar_system_icons_summary">Controle cualis iconis mostrâ te sbare des iconis</string>
+    <string name="charging_control_title">Control de cjarie</string>
+    <string name="charging_control_enable_title">Abilite il control de cjarie</string>
+    <string name="charging_control_mode_title">Modalitât di ricjarie</string>
+    <string name="charging_control_mode_auto_title">Planificazion automatiche</string>
+    <string name="charging_control_mode_auto_summary">Determine in mût automatic se scomençâ la ricjarie in base aes sveis stabilidis</string>
+    <string name="charging_control_mode_custom_title">Planificazion personalizade</string>
+    <string name="charging_control_mode_custom_summary">Stabilìs un orari pal completament de ricjarie</string>
+    <string name="charging_control_mode_limit_title">Limit di cjarie</string>
+    <string name="charging_control_mode_limit_summary">Limite la ricjarie a une cierte percentuâl</string>
+    <string name="charging_control_start_time_title">Orari di inizi</string>
+    <string name="charging_control_start_time_summary">Il control de cjarie si ative cuant che tu scomencis a ricjariâ dopo des %s</string>
+    <string name="charging_control_target_time_title">Orari di completament de ricjarie</string>
+    <string name="charging_control_target_time_summary">La batarie e sarà plene pes %s</string>
+    <string name="charging_control_limit_title">Limit</string>
+    <string name="reset">Ristabilìs</string>
+</resources>

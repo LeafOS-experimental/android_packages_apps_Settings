@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017-2023 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="fast_charging_title">急速充電</string>
+    <string name="fast_charging_summary">充電中の端末の発熱を減らしバッテリー寿命を伸ばすためには無効にしてください</string>
+    <string name="high_touch_sensitivity_title">高感度タッチ</string>
+    <string name="high_touch_sensitivity_summary">手袋を着けたまま使用できるようにタッチ画面の感度を向上させる</string>
+    <string name="berry_black_theme_title">ピュアブラック</string>
+    <string name="berry_black_theme_summary">ダークテーマ時に背景をピュアブラックにする</string>
+    <string name="lock_settings_picker_pattern_size_message">パターンサイズを選択してください</string>
+    <string name="lockpattern_settings_enable_error_path_title">間違えたパターンを表示</string>
+    <string name="lockpattern_settings_enable_dots_title">パターンのドットを表示</string>
+    <string name="max_refresh_rate_title">最高リフレッシュレート</string>
+    <string name="min_refresh_rate_title">最小リフレッシュレート</string>
+    <string name="unlock_scramble_pin_layout_title">スクランブルレイアウト</string>
+    <string name="unlock_scramble_pin_layout_summary">端末のロック解除時にPINレイアウトをランダムにする</string>
+    <string name="tethering_allow_vpn_upstreams_title">クライアントの VPN 使用を許可</string>
+    <string name="tethering_allow_vpn_upstreams_summary">この端末の VPN 接続をホットスポットのクライアントが送信接続に使うことを許可する</string>
+    <string name="assisted_gps">A-GPS を使用</string>
+    <string name="assisted_gps_summary">GPS 始動時のパフォーマンスを大幅に向上できる衛星支援データをインターネットからダウンロードします。緊急電話のために、アシスト GPS は常に許可されています。</string>
+    <string name="backup_transport_setting_label">バックアップ プロバイダの変更</string>
+    <string name="backup_transport_title">バックアップ プロバイダの選択</string>
+    <string name="power_menu_advanced_restart_title">高度な再起動</string>
+    <string name="power_menu_advanced_restart_summary">ロック解除時に、リカバリーやブートローダーへ再起動するオプションを電源メニューに含めます</string>
+    <string name="display_rotation_title">回転</string>
+    <string name="display_rotation_enabled">画面の自動回転は有効になっています</string>
+    <string name="display_rotation_disabled">無効</string>
+    <string name="display_rotation_unit">度</string>
+    <string name="display_rotation_category_title">回転のモード</string>
+    <string name="display_rotation_0_title">0度</string>
+    <string name="display_rotation_90_title">90度</string>
+    <string name="display_rotation_180_title">180度</string>
+    <string name="display_rotation_270_title">270度</string>
+    <string name="status_bar_title">ステータスバー</string>
+    <string name="status_bar_system_icons_summary">ステータスバーに表示するアイコンを設定します</string>
+    <string name="charging_control_title">充電コントロール</string>
+    <string name="charging_control_enable_title">充電コントロールを有効化</string>
+    <string name="charging_control_mode_title">充電モード</string>
+    <string name="charging_control_mode_auto_title">自動スケジュール</string>
+    <string name="charging_control_mode_auto_summary">アラームセットに基づいて、充電を開始するタイミングを自動的に決定します</string>
+    <string name="charging_control_mode_custom_title">カスタムスケジュール</string>
+    <string name="charging_control_mode_custom_summary">フル充電までの目標時間を設定します</string>
+    <string name="charging_control_mode_limit_title">充電を制限</string>
+    <string name="charging_control_mode_limit_summary">充電を一定のパーセントまでに制限します</string>
+    <string name="charging_control_start_time_title">開始時間</string>
+    <string name="charging_control_start_time_summary">%s の後に充電を開始すると充電コントロールが有効になります</string>
+    <string name="charging_control_target_time_title">フル充電までの目標時間</string>
+    <string name="charging_control_target_time_summary">バッテリーは %s までに完全に充電されます</string>
+    <string name="charging_control_limit_title">制限</string>
+    <string name="reset">リセット</string>
+</resources>

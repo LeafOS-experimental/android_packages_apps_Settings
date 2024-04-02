@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017-2023 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="fast_charging_title">Snelladen</string>
+    <string name="fast_charging_summary">Schakel uit om de warmteproductie van het apparaat te verminderen tijdens het opladen of om de levensduur van de batterij te verlengen</string>
+    <string name="high_touch_sensitivity_title">Hoge aanraakgevoeligheid</string>
+    <string name="high_touch_sensitivity_summary">Gevoeligheid van het scherm verhogen, zodat het bediend kan worden met handschoenen</string>
+    <string name="berry_black_theme_title">Puur zwart</string>
+    <string name="berry_black_theme_summary">Puur zwarte achtergrond voor donker thema</string>
+    <string name="lock_settings_picker_pattern_size_message">Grootte patroon kiezen</string>
+    <string name="lockpattern_settings_enable_error_path_title">Patroonfout weergeven</string>
+    <string name="lockpattern_settings_enable_dots_title">Patroonknoppen weergeven</string>
+    <string name="max_refresh_rate_title">Piek vernieuwingsfrequentie</string>
+    <string name="min_refresh_rate_title">Minimale verversingsfrequentie</string>
+    <string name="unlock_scramble_pin_layout_title">Lay-out husselen</string>
+    <string name="unlock_scramble_pin_layout_summary">PIN-lay-out door elkaar husselen bij apparaat ontgrendelen</string>
+    <string name="tethering_allow_vpn_upstreams_title">Clients toestaan om VPN\'s te gebruiken</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Sta hotspot-gebruikers toe om de VPN-verbindingen van dit apparaat te gebruiken om te uploaden</string>
+    <string name="assisted_gps">Gebruik Assisted GPS</string>
+    <string name="assisted_gps_summary">Download satellietondersteuningsgegevens van het internet die de opstartprestaties van GPS aanzienlijk kunnen verbeteren. Voor noodoproepen is assisted GPS altijd toegestaan.</string>
+    <string name="backup_transport_setting_label">Wijzig back-up provider</string>
+    <string name="backup_transport_title">Kies back-up provider</string>
+    <string name="power_menu_advanced_restart_title">Geavanceerd herstarten</string>
+    <string name="power_menu_advanced_restart_summary">Indien ontgrendeld, opties tonen in het aan/uit-menu voor herstarten naar recovery of bootloader</string>
+    <string name="display_rotation_title">Rotatie-instellingen</string>
+    <string name="display_rotation_enabled">Auto-rotatie is ingeschakeld</string>
+    <string name="display_rotation_disabled">Auto-rotatie is uitgeschakeld</string>
+    <string name="display_rotation_unit">graden</string>
+    <string name="display_rotation_category_title">Draaistanden</string>
+    <string name="display_rotation_0_title">0 graden</string>
+    <string name="display_rotation_90_title">90 graden</string>
+    <string name="display_rotation_180_title">180 graden</string>
+    <string name="display_rotation_270_title">270 graden</string>
+    <string name="status_bar_title">Statusbalk</string>
+    <string name="status_bar_system_icons_summary">Instellen welke statusbalkpictogrammen worden weergegeven</string>
+    <string name="charging_control_title">Oplaadcontrole</string>
+    <string name="charging_control_enable_title">Schakel oplaadcontrole in</string>
+    <string name="charging_control_mode_title">Oplaadmodus</string>
+    <string name="charging_control_mode_auto_title">Automatisch schema</string>
+    <string name="charging_control_mode_auto_summary">Bepaal automatisch wanneer moet worden opgeladen op basis van alarmen</string>
+    <string name="charging_control_mode_custom_title">Aangepast schema</string>
+    <string name="charging_control_mode_custom_summary">Stel een doeltijd in voor volledige lading</string>
+    <string name="charging_control_mode_limit_title">Beperk opladen</string>
+    <string name="charging_control_mode_limit_summary">Beperk de lading tot een bepaald percentage</string>
+    <string name="charging_control_start_time_title">Begintijd</string>
+    <string name="charging_control_start_time_summary">Oplaadcontrole activeert wanneer u begint met opladen na %s</string>
+    <string name="charging_control_target_time_title">Tijdstip volledig opgeladen</string>
+    <string name="charging_control_target_time_summary">Batterij zal volledig opgeladen worden in %s</string>
+    <string name="charging_control_limit_title">Begrenzing</string>
+    <string name="reset">Herstel</string>
+</resources>

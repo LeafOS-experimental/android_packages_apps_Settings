@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017-2023 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="fast_charging_title">Sürətli enerji yığma</string>
+    <string name="fast_charging_summary">Cihazın enerji yığarkən istehsal etdiyi istiliyi azaltmaq və ya batereyanın ömrünü uzatmaq üçün sıradan çıxardın</string>
+    <string name="high_touch_sensitivity_title">Yüksək toxunuş həssaslığı</string>
+    <string name="high_touch_sensitivity_summary">Toxunuş həssaslığını artıraraq əlcəklə istifadəni mümkün edər</string>
+    <string name="berry_black_theme_title">Təmiz qara</string>
+    <string name="berry_black_theme_summary">Qaranlıq tema üçün təmiz qara arxaplan</string>
+    <string name="lock_settings_picker_pattern_size_message">Forma ölçüsünü seçin</string>
+    <string name="lockpattern_settings_enable_error_path_title">Forma xətalarını göstər</string>
+    <string name="lockpattern_settings_enable_dots_title">Forma nöqtələrini göstər</string>
+    <string name="max_refresh_rate_title">Ən yüksək təzələnmə sürəti</string>
+    <string name="min_refresh_rate_title">Minimum təzələmə əmsalı</string>
+    <string name="unlock_scramble_pin_layout_title">Düzümü qarışdır</string>
+    <string name="unlock_scramble_pin_layout_summary">Cihaz kilidini açarkən PIN düzümünü qarışdır</string>
+    <string name="tethering_allow_vpn_upstreams_title">Müştərilərin VPN istifadəsinə icazə ver</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Hotspot istifadəçilərinin bağlantıları arasında bu cihazın VPN bağlantısını istifadə etməsinə icazə ver</string>
+    <string name="assisted_gps">Köməkli GPS istifadə edin</string>
+    <string name="assisted_gps_summary">GPS-in başlatma performansını əhəmiyyətli dərəcədə artıra bilən peyk köməkçi datalarını internetdən endirin. Fövqəladə hal zəngləri üçün köməkçi GPS-ə həmişə icazə verilir.</string>
+    <string name="backup_transport_setting_label">Nüsxələmə provayderini dəyişdir</string>
+    <string name="backup_transport_title">Nüsxələmə provayderini seç</string>
+    <string name="power_menu_advanced_restart_title">Qabaqcıl yenidən başlatma</string>
+    <string name="power_menu_advanced_restart_summary">Kilid açılanda, geri qaytarma və ya bootloader rejimində yenidən başlatmaq üçün güc düyməsinə seçimlər əlavə edir</string>
+    <string name="display_rotation_title">Döndərmə ayarları</string>
+    <string name="display_rotation_enabled">Avto-döndərmə fəaldır</string>
+    <string name="display_rotation_disabled">Avto-döndərmə sıradan çıxarıldı</string>
+    <string name="display_rotation_unit">dərəcə</string>
+    <string name="display_rotation_category_title">Döndərmə rejimi</string>
+    <string name="display_rotation_0_title">0 dərəcə</string>
+    <string name="display_rotation_90_title">90 dərəcə</string>
+    <string name="display_rotation_180_title">180 dərəcə</string>
+    <string name="display_rotation_270_title">270 dərəcə</string>
+    <string name="status_bar_title">Status çubuğu</string>
+    <string name="status_bar_system_icons_summary">Hansı status çubuğu nişanlarının göstəriləcəyinə nəzarət edin</string>
+    <string name="charging_control_title">Enerji yığma kontrolu</string>
+    <string name="charging_control_enable_title">Enerji yığma kontrolunu fəallaşdır</string>
+    <string name="charging_control_mode_title">Enerji yığma rejimi</string>
+    <string name="charging_control_mode_auto_title">Avto-planlaşdır</string>
+    <string name="charging_control_mode_auto_summary">Ayarlanan zəngli saatlara görə doldurmanın nə vaxt başlayacağını avtomatik müəyyənləşdir</string>
+    <string name="charging_control_mode_custom_title">Özəl plan</string>
+    <string name="charging_control_mode_custom_summary">Tam doldurma üçün bir hədəf vaxt ayarla</string>
+    <string name="charging_control_mode_limit_title">Enerji yığmanı limitlə</string>
+    <string name="charging_control_mode_limit_summary">Enerji yığmanı müəyyən bir faizlə məhdudlaşdır</string>
+    <string name="charging_control_start_time_title">Başlama vaxtı</string>
+    <string name="charging_control_start_time_summary">%s sonra enerji yığmağa başladıqda enerji yığma kontrolları aktivləşir</string>
+    <string name="charging_control_target_time_title">Tam dolma üçün hədəf vaxt</string>
+    <string name="charging_control_target_time_summary">Batareya, %s tərəfindən tam doldurulacaq</string>
+    <string name="charging_control_limit_title">Limit</string>
+    <string name="reset">Sıfırla</string>
+</resources>

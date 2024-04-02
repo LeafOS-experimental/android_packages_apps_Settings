@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="display_rotation_title">Поставувања за ротација</string>
+    <string name="display_rotation_enabled">Автоматската ротација е овозможена</string>
+    <string name="display_rotation_disabled">Автоматската ротација е оневозможена</string>
+    <string name="display_rotation_unit">степени</string>
+    <string name="display_rotation_category_title">Режими на ротација</string>
+    <string name="display_rotation_0_title">0 степени</string>
+    <string name="display_rotation_90_title">90 степени</string>
+    <string name="display_rotation_180_title">180 степени</string>
+    <string name="display_rotation_270_title">270 степени</string>
+    <string name="status_bar_title">Статусна лента</string>
+    <string name="status_bar_system_icons_summary">Контролирај кои икони на статусната лента се прикажани</string>
+    <string name="reset">Ресетирај</string>
+</resources>
