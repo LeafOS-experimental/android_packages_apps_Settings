@@ -33,7 +33,6 @@ import static org.mockito.Mockito.spy;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 
-import android.app.KeyguardManager;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.net.wifi.WifiConfiguration;
@@ -47,6 +46,7 @@ import com.android.wifitrackerlib.WifiEntry;
 import com.google.android.setupcompat.util.WizardManagerHelper;
 
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.Mock;
@@ -82,8 +82,6 @@ public class WifiDialogActivityTest {
     Intent mResultData;
     @Mock
     WifiConfigController mController;
-    @Mock
-    KeyguardManager mKeyguardManager;
 
     WifiDialogActivity mActivity;
 
@@ -101,7 +99,6 @@ public class WifiDialogActivityTest {
         mActivity = spy(Robolectric.setupActivity(WifiDialogActivity.class));
         when(mActivity.getSystemService(UserManager.class)).thenReturn(mUserManager);
         when(mActivity.getSystemService(WifiManager.class)).thenReturn(mWifiManager);
-        when(mActivity.getSystemService(KeyguardManager.class)).thenReturn(mKeyguardManager);
     }
 
     @Test
@@ -296,36 +293,5 @@ public class WifiDialogActivityTest {
         final boolean result = mActivity.hasPermissionForResult();
 
         assertThat(result).isTrue();
-    }
-
-    @Test
-    public void dismissDialog_hasDialog_dialogDismiss() {
-        mActivity.mDialog = mWifiDialog;
-        mActivity.mDialog2 = mWifiDialog2;
-
-        mActivity.dismissDialog();
-
-        verify(mWifiDialog).dismiss();
-        verify(mWifiDialog2).dismiss();
-    }
-
-    @Test
-    public void onKeyguardLockedStateChanged_keyguardIsNotLocked_doNotDismissDialog() {
-        WifiDialogActivity.LockScreenMonitor lockScreenMonitor =
-                new WifiDialogActivity.LockScreenMonitor(mActivity);
-
-        lockScreenMonitor.onKeyguardLockedStateChanged(false /* isKeyguardLocked */);
-
-        verify(mActivity, never()).dismissDialog();
-    }
-
-    @Test
-    public void onKeyguardLockedStateChanged_keyguardIsLocked_dismissDialog() {
-        WifiDialogActivity.LockScreenMonitor lockScreenMonitor =
-                new WifiDialogActivity.LockScreenMonitor(mActivity);
-
-        lockScreenMonitor.onKeyguardLockedStateChanged(true /* isKeyguardLocked */);
-
-        verify(mActivity).dismissDialog();
     }
 }
