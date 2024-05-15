@@ -18,7 +18,6 @@ package com.android.settings.wifi;
 
 import static android.Manifest.permission.ACCESS_COARSE_LOCATION;
 import static android.Manifest.permission.ACCESS_FINE_LOCATION;
-import static android.os.UserManager.DISALLOW_CONFIG_WIFI;
 
 import static com.android.settings.wifi.WifiDialogActivity.REQUEST_CODE_WIFI_DPP_ENROLLEE_QR_CODE_SCANNER;
 import static com.android.settings.wifi.WifiDialogActivity.RESULT_CONNECTED;
@@ -37,7 +36,6 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.net.wifi.WifiConfiguration;
 import android.net.wifi.WifiManager;
-import android.os.UserManager;
 
 import com.android.settings.testutils.FakeFeatureFactory;
 import com.android.settingslib.wifi.AccessPoint;
@@ -46,7 +44,6 @@ import com.android.wifitrackerlib.WifiEntry;
 import com.google.android.setupcompat.util.WizardManagerHelper;
 
 import org.junit.Before;
-import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.Mock;
@@ -60,8 +57,6 @@ public class WifiDialogActivityTest {
     static final String CALLING_PACKAGE = "calling_package";
     static final int REQUEST_CODE = REQUEST_CODE_WIFI_DPP_ENROLLEE_QR_CODE_SCANNER;
 
-    @Mock
-    UserManager mUserManager;
     @Mock
     PackageManager mPackageManager;
     @Mock
@@ -97,7 +92,6 @@ public class WifiDialogActivityTest {
         FakeFeatureFactory.setupForTest();
 
         mActivity = spy(Robolectric.setupActivity(WifiDialogActivity.class));
-        when(mActivity.getSystemService(UserManager.class)).thenReturn(mUserManager);
         when(mActivity.getSystemService(WifiManager.class)).thenReturn(mWifiManager);
     }
 
@@ -215,20 +209,6 @@ public class WifiDialogActivityTest {
         mActivity.onActivityResult(REQUEST_CODE, RESULT_OK, mResultData);
 
         verify(mActivity).setResult(RESULT_CONNECTED, mResultData);
-    }
-
-    @Test
-    public void isConfigWifiAllowed_hasNoUserRestriction_returnTrue() {
-        when(mUserManager.hasUserRestriction(DISALLOW_CONFIG_WIFI)).thenReturn(false);
-
-        assertThat(mActivity.isConfigWifiAllowed()).isTrue();
-    }
-
-    @Test
-    public void isConfigWifiAllowed_hasUserRestriction_returnFalse() {
-        when(mUserManager.hasUserRestriction(DISALLOW_CONFIG_WIFI)).thenReturn(true);
-
-        assertThat(mActivity.isConfigWifiAllowed()).isFalse();
     }
 
     @Test
