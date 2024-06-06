@@ -1,2 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="build_date">Дата сборки</string>
+    <string name="leaf_version">Версия LeafOS</string>
+    <string name="leaf_vendor_security_patch">Обновление патча безопасности OEM</string>
+    <string name="enable_adblock">Включить AdBlock</string>
+    <string name="enable_adblock_summary">Блокирует рекламу и трекеры по всей системе.</string>
+    <string name="back_height_low_label">Полная</string>
+    <string name="back_height_high_label">Нижняя часть</string>
+    <string name="back_options_dialog_title">Опции</string>
+    <string name="back_height_message">Высота экрана, используемая для жеста назад</string>
+    <string name="three_finger_gesture">Свайп чтобы сделать скриншот</string>
+    <string name="three_finger_gesture_summary">Проведите тремя пальцами от верхней части экрана, чтобы сделать скриншот</string>
+    <string name="hide_powermenu_lockscreen">Скрыть меню питания на экране блокировки</string>
+    <string name="qs_panel_options_title">Шторка</string>
+    <string name="qs_panel_options_summary">Настройте внешний вид шторки быстрых настроек</string>
+    <string name="category_name_qs_tiles">Плитки быстрых настроек</string>
+    <string name="qs_tile_shape">Форма плиток быстрых настроек</string>
+    <string name="qs_tile_round">Круглая</string>
+    <string name="qs_tile_rect">Скруглённый квадрат</string>
+    <string name="qs_tile_mix">Круглая для активных, скругл. квадрат для неактивных плиток</string>
+    <string name="category_name_qs_brightness_slider">Ползунок яркости</string>
+    <string name="qs_brightness_slider_title">Ползунок яркости</string>
+    <string name="qs_brightness_slider_summary">Подстройка яркости из шторки</string>
+    <string name="qs_brightness_slider_never">Никогда не показывать</string>
+    <string name="qs_brightness_slider_expanded">Показывать когда развёрнута</string>
+    <string name="qs_brightness_slider_always">Показывать всегда</string>
+    <string name="qs_brightness_slider_position_title">Положение ползунка яркости</string>
+    <string name="qs_brightness_slider_position_top">Сверху</string>
+    <string name="qs_brightness_slider_position_bottom">Снизу</string>
+    <string name="qs_auto_brightness_title">Иконка автояркости</string>
+    <string name="qs_auto_brightness_summary">Показывать иконку автояркости рядом с ползунком</string>
+    <string name="brightness_slider_style_title">Стиль ползунка яркости</string>
+    <string name="brightness_slider_style_default">Обычный</string>
+    <string name="brightness_slider_style_filled">Заполненный (тоньше обычного)</string>
+    <string name="brightness_slider_style_thin">Тонкий</string>
+    <string name="qs_style_title">Стиль шторки</string>
+    <string name="qs_style_default">Стандартная (пилюли)</string>
+    <string name="qs_style_round">Кружочки (как в Android 11)</string>
+    <string name="qs_columns">Количество иконок по горизонтали (когда развёрнуто)</string>
+    <string name="qs_columns_landscape">Кол-во иконок по горизонтали (когда развёрнуто, в ландашфтном режиме)</string>
+    <string name="qqs_columns">Количество иконок по горизонтали</string>
+    <string name="qqs_columns_landscape">Количество иконок по горизонтали (в ландшафтном режиме)</string>
+    <string name="notification_sound_vib_screen_on_title">Бесячие уведомления</string>
+    <string name="notification_sound_vib_screen_on_summary">Проигрывать звук уведомления, когда экран включён</string>
+    <string name="soc_model">Модель процессора</string>
+    <string name="total_ram">Всего ОЗУ</string>
+    <string name="fingerprint_lockout_title">Выключить таймаут отпечатка</string>
+    <string name="fingerprint_lockout_summary">Отключает 30-ти секундный таймаут и перманентное исключение сканера после многочисленных неудачных попыток разблокировки</string>
+    <string name="wifi_hotspot_hidden_ssid_title">Скрытая сеть</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">Точка доступа не будет отображаться в списке доступных сетей.</string>
+    <string name="wifi_hotspot_client_manager_title">Подключенные устройства</string>
+    <string name="wifi_hotspot_client_manager_summary">Управление подключенными к точке доступа устройствами</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">Показать подключенные к точке доступа устройства</string>
+    <string name="wifi_hotspot_client_limit_title">Ограничение кол-ва подключенных устройств</string>
+    <string name="wifi_hotspot_blocked_clients_list_title">Заблокированные устройства</string>
+    <string name="wifi_hotspot_connected_clients_list_title">Подключенные устройства</string>
+    <string name="wifi_hotspot_block_client_dialog_title">Заблокировать устройство</string>
+    <string name="wifi_hotspot_block_client_dialog_text">Это действие отключит \"<xliff:g id="device_name">%1$s</xliff:g>\" от устройства и добавит его в чёрный список</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">Разблокировать устройство</string>
+    <string name="wifi_hotspot_unblock_client_dialog_text">Устройство \"<xliff:g id="device_name">%1$s</xliff:g>\" вновь сможет подключиться к точке доступа</string>
+    <string name="wifi_hotspot_client_manager_footer_text">В данный момент ничего не подключено. Подключенные и заблокированные устройства будут отображаться здесь.</string>
+    <string name="app_lock_title">Блокировка приложений</string>
+    <plurals name="app_lock_summary">
+        <item quantity="one"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> приложение защищено</item>
+        <item quantity="few"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> приложения защищено</item>
+        <item quantity="many"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> приложений защищено</item>
+        <item quantity="other"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> приложений защищено</item>
+    </plurals>
+    <string name="app_lock_authentication_dialog_title">Разблокировать</string>
+    <string name="enable_debugging">Включить отладку</string>
+    <string name="disable_debugging">Выключить отладку</string>
+    <string name="app_lock_packages_title">Защищённые приложения</string>
+    <string name="app_lock_packages_summary">Выберите приложения, которые стоит защитить паролем устройства или биометрией</string>
+    <string name="app_lock_timeout_title">Таймаут автоматической блокировки</string>
+    <string name="app_lock_timeout_summary">Промежуток времени, после которого разблокированное приложение должно заблокироваться</string>
+    <string name="app_lock_notifications_title">Редактировать уведомления</string>
+    <string name="app_lock_notifications_summary">Уведомления от заблокированных приложений будут скрыты, в т.ч. всплывающие.</string>
+    <string name="app_lock_notifications_disabled_summary">Сначала защитите приложение</string>
+    <string name="app_lock_biometrics_allowed_title">Включить биометрию для разблокировки</string>
+    <string name="app_lock_footer_text">Пузырьки (плавающие уведомления) автоматически закроются после окончания таймаута</string>
+    <string name="enable_protection">Включить защиту</string>
+    <string name="hide_from_launcher_title">Скрыть из лаунчера</string>
+    <string name="hide_from_launcher_summary">Скрыть иконку приложения. Требует рестарт лаунчера для применения.</string>
+    <string name="app_lock_timeout_5sec">5 секунд</string>
+    <string name="app_lock_timeout_10sec">10 секунд</string>
+    <string name="app_lock_timeout_30sec">30 секунд</string>
+    <string name="app_lock_timeout_1min">1 минута</string>
+    <string name="app_lock_timeout_5min">5 минут</string>
+    <string name="app_lock_timeout_10min">10 минут</string>
+    <string name="app_lock_timeout_30min">30 минут</string>
+</resources>
