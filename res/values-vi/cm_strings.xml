@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Tăng độ nhạy màn hình cảm ứng để nó có thể được sử dụng trong khi đeo găng tay</string>
     <string name="berry_black_theme_title">Đen tuyền</string>
     <string name="berry_black_theme_summary">Nền đen tuyền cho chủ đề tối</string>
+    <string name="status_bar_double_tap_to_sleep_title">Chạm để tắt màn hình</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Chạm hai lần vào thanh trạng thái hoặc màn hình khoá để tắt màn hình</string>
     <string name="lock_settings_picker_pattern_size_message">Chọn một kích cỡ mẫu hình</string>
     <string name="lockpattern_settings_enable_error_path_title">Hiện lỗi mẫu hình</string>
     <string name="lockpattern_settings_enable_dots_title">Hiện dấu chấm mẫu hình</string>

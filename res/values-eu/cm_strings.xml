@@ -17,6 +17,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="high_touch_sensitivity_title">Ukipen sentsibilitate altua</string>
     <string name="high_touch_sensitivity_summary">Areagotu pantailaren sentsibilitatea, eskularruekin erabilgarria izan dadin</string>
+    <string name="status_bar_double_tap_to_sleep_title">Sakatu lokartzeko</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Sakatu birritan egoera-barra edo blokeo-pantaila pantaila itzaltzeko</string>
     <string name="lock_settings_picker_pattern_size_message">Aukeratu ereduaren tamaina</string>
     <string name="lockpattern_settings_enable_error_path_title">Erakutsi eredu errorea</string>
     <string name="lockpattern_settings_enable_dots_title">Erakutsi ereduaren puntuak</string>

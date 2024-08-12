@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Povečaj občutljivost dotika, tako da ga lahko uporabite, ko nosite rokavice</string>
     <string name="berry_black_theme_title">Popolnoma črna</string>
     <string name="berry_black_theme_summary">Popolnoma črno ozadje za temno temo</string>
+    <string name="status_bar_double_tap_to_sleep_title">Tap za spanje</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dvakrat tapnite na vrstico stanja ali zaklenjen zaslon, da izklopite zaslon</string>
     <string name="lock_settings_picker_pattern_size_message">Izberite velikost vzorca</string>
     <string name="lockpattern_settings_enable_error_path_title">Prikaži napako vzorca</string>
     <string name="lockpattern_settings_enable_dots_title">Prikaži pike vzorca</string>

@@ -20,6 +20,8 @@
     <string name="high_touch_sensitivity_summary">Suurenda puuteekraani tundlikust, et saaksid seda kasutada kindaid kandes</string>
     <string name="berry_black_theme_title">Täiesti must</string>
     <string name="berry_black_theme_summary">Täiesti must taust tumeda teema jaoks</string>
+    <string name="status_bar_double_tap_to_sleep_title">Koputa unerežiimiks</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Topeltkoputa olekuriba või lukustuskuva ekraani väljalülitamiseks</string>
     <string name="lockpattern_settings_enable_dots_title">Näita mustri punkte</string>
     <string name="min_refresh_rate_title">Minimaalne värskendussagedus</string>
     <string name="unlock_scramble_pin_layout_title">Segatud paigutus</string>

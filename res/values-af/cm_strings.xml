@@ -22,6 +22,8 @@
     <string name="lockpattern_settings_enable_dots_title">Wys patroon kolle</string>
     <string name="unlock_scramble_pin_layout_title">Skommel uitleg</string>
     <string name="unlock_scramble_pin_layout_summary">Skommel PIN uitleg wanneer die toestel ontsluit word</string>
+    <string name="status_bar_double_tap_to_sleep_title">Klop-Klop om te slaap</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dubbel klop op die statusbalk om skerm af te skakel</string>
     <string name="display_rotation_title">Rotasie instellings</string>
     <string name="display_rotation_enabled">Outo-rotasie is geaktiveer</string>
     <string name="display_rotation_disabled">Outo-rotasie is gedeaktiveer</string>

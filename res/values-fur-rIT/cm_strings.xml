@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Aumente la sensibilitât dal schermi tatil par podêlu doprâ cu lis manecis</string>
     <string name="berry_black_theme_title">Neri pûr</string>
     <string name="berry_black_theme_summary">Fonts neri pûr pal teme scûr</string>
+    <string name="status_bar_double_tap_to_sleep_title">Tocje par sospindi</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Tocje dôs volti la sbare di stât o la schermade di sbloc par distudâ il schermi</string>
     <string name="lock_settings_picker_pattern_size_message">Sielç la dimension de secuence</string>
     <string name="lockpattern_settings_enable_error_path_title">Mostre erôr de secuence</string>
     <string name="lockpattern_settings_enable_dots_title">Mostre ponts de secuence</string>

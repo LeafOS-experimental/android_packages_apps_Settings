@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Gevoeligheid van het scherm verhogen, zodat het bediend kan worden met handschoenen</string>
     <string name="berry_black_theme_title">Puur zwart</string>
     <string name="berry_black_theme_summary">Puur zwarte achtergrond voor donker thema</string>
+    <string name="status_bar_double_tap_to_sleep_title">Tikken om te slapen</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dubbeltikken op de statusbalk of schermvergrendeling om het scherm uit te schakelen</string>
     <string name="lock_settings_picker_pattern_size_message">Grootte patroon kiezen</string>
     <string name="lockpattern_settings_enable_error_path_title">Patroonfout weergeven</string>
     <string name="lockpattern_settings_enable_dots_title">Patroonknoppen weergeven</string>

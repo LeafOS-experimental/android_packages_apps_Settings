@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Toxunuş həssaslığını artıraraq əlcəklə istifadəni mümkün edər</string>
     <string name="berry_black_theme_title">Təmiz qara</string>
     <string name="berry_black_theme_summary">Qaranlıq tema üçün təmiz qara arxaplan</string>
+    <string name="status_bar_double_tap_to_sleep_title">Yuxlatmaq üçün toxun</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Ekranı söndürmək üçün status çubuğuna və ya kilid ekranına cüt toxunun</string>
     <string name="lock_settings_picker_pattern_size_message">Forma ölçüsünü seçin</string>
     <string name="lockpattern_settings_enable_error_path_title">Forma xətalarını göstər</string>
     <string name="lockpattern_settings_enable_dots_title">Forma nöqtələrini göstər</string>

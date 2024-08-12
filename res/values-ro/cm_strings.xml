@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Crește sensibilitatea ecranului tactil, astfel încât acesta poate fi utilizat în timp ce se poartă mănuși</string>
     <string name="berry_black_theme_title">Negru pur</string>
     <string name="berry_black_theme_summary">Fundal negru pur pentru tema întunecată</string>
+    <string name="status_bar_double_tap_to_sleep_title">Atingeți pentru sleep</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Atingeți de două ori bara de stare sau ecranul de blocare pentru a opri ecranul</string>
     <string name="lock_settings_picker_pattern_size_message">Alegeți dimensiunea modelului</string>
     <string name="lockpattern_settings_enable_error_path_title">Afișare eroare model</string>
     <string name="lockpattern_settings_enable_dots_title">Afișare puncte model</string>

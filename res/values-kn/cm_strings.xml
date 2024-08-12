@@ -17,6 +17,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="high_touch_sensitivity_title">ಅಧಿಕ ಸ್ಪರ್ಶ ಸಂವೇದನೆ</string>
     <string name="high_touch_sensitivity_summary">ಸ್ಪರ್ಶಪರದೆ ಸಂವೇದನೆ ವೃದ್ಧಿಸಿದರೆ ಕೈಗವಸ ಧರಿಸಿಯೂ ಬಳಸಬಹುದು</string>
+    <string name="status_bar_double_tap_to_sleep_title">ನಿದ್ರಿಸಲು ಮುಟ್ಟು</string>
+    <string name="status_bar_double_tap_to_sleep_summary">ಪರದೆಯನ್ನು ನಂದಿಸಲು ಸ್ಥಿತಿಪಟ್ಟಿಕೆ ಅಥವಾ ಬಿಗಿದ ಪರದೆಯನ್ನು ಜೋಡಿವತ್ತ್ತಿ</string>
     <string name="lock_settings_picker_pattern_size_message">ರೂಪಿಕೆಯ ಗಾತ್ರವನ್ನು ಆರಿಸು</string>
     <string name="lockpattern_settings_enable_error_path_title">ನಮೂನೆ ದೋಷವನ್ನು ಪ್ರದರ್ಶಿಸು</string>
     <string name="lockpattern_settings_enable_dots_title">ನಮೂನೆ ಚುಕ್ಕಿಗಳನ್ನು ಪ್ರದರ್ಶಿಸು</string>

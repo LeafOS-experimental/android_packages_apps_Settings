@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="status_bar_double_tap_to_sleep_title">Двоен допир за спиење</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Двоен-допир на статусната лента за да го исклучите екранот</string>
     <string name="display_rotation_title">Поставувања за ротација</string>
     <string name="display_rotation_enabled">Автоматската ротација е овозможена</string>
     <string name="display_rotation_disabled">Автоматската ротација е оневозможена</string>

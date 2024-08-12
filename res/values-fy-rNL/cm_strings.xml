@@ -17,6 +17,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="high_touch_sensitivity_title">Hege gefoelichheid oanreitsjen</string>
     <string name="high_touch_sensitivity_summary">Gefoelichheid fan it skerm ferheegje, sadat it betsjinne wurde kin mei wanten</string>
+    <string name="status_bar_double_tap_to_sleep_title">Dûbeld tikke foar sliepstân</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dûbeld tikke op de steatbalke of beskoattelskerm om it skerm út te skeakeljen</string>
     <string name="lock_settings_picker_pattern_size_message">Grutte patroan kieze</string>
     <string name="lockpattern_settings_enable_error_path_title">Patroanflater toane</string>
     <string name="lockpattern_settings_enable_dots_title">Patroanknoppen toane</string>

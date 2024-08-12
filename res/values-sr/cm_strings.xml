@@ -17,6 +17,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="high_touch_sensitivity_title">Велика осетљивост на додир</string>
     <string name="high_touch_sensitivity_summary">Повећава осетљивост екрана ради коришћења уређаја у рукавицама.</string>
+    <string name="status_bar_double_tap_to_sleep_title">Додир за спавање</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Додирните двапут на статусну траку или на закључани екран да бисте искључили екран</string>
     <string name="lock_settings_picker_pattern_size_message">Изаберите величину шаблона</string>
     <string name="lockpattern_settings_enable_error_path_title">Прикажи неисправан унос</string>
     <string name="lockpattern_settings_enable_dots_title">Прикажи тачке</string>

@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Cynyddu sensitifrwydd y sgrin gyffwrdd fel y gellir ei defnyddio wrth wisgo menig</string>
     <string name="berry_black_theme_title">Du pur</string>
     <string name="berry_black_theme_summary">Cefndir du pur i\'r thema dywyll</string>
+    <string name="status_bar_double_tap_to_sleep_title">Tapio i gysgu</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Tapio dwywaith ar y bar statws neu\'r sgrin cloi i droi\'r sgrin i ffwrdd</string>
     <string name="lock_settings_picker_pattern_size_message">Dewisa faint patrwm</string>
     <string name="lockpattern_settings_enable_error_path_title">Dangos gwall patrwm</string>
     <string name="lockpattern_settings_enable_dots_title">Dangos dotiau patrwm</string>

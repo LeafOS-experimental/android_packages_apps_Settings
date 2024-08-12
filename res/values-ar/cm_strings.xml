@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">زيادة حساسية شاشة اللمس حتى يمكن استخدامها أثناء ارتداء القفازات</string>
     <string name="berry_black_theme_title">أسود خالص</string>
     <string name="berry_black_theme_summary">خلفية سوداء خالصة للوضع المظلم</string>
+    <string name="status_bar_double_tap_to_sleep_title">اضغط للنوم</string>
+    <string name="status_bar_double_tap_to_sleep_summary">الضغط مرتين فوق شريط الحالة لإطفاء الشاشة</string>
     <string name="lock_settings_picker_pattern_size_message">اختر حجم النمط</string>
     <string name="lockpattern_settings_enable_error_path_title">إظهار خطأ النمط</string>
     <string name="lockpattern_settings_enable_dots_title">إظهار نقاط النمط</string>

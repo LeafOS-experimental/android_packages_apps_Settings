@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Dokunmatik ekran hassasiyetini arttırarak eldiven ile kullanıma olanak verir</string>
     <string name="berry_black_theme_title">Saf siyah</string>
     <string name="berry_black_theme_summary">Karanlık tema için saf siyah arka plan</string>
+    <string name="status_bar_double_tap_to_sleep_title">Uyutmak için dokunun</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Ekranı kapatmak için durum çubuğuna veya kilit ekranına çift dokunun</string>
     <string name="lock_settings_picker_pattern_size_message">Bir desen boyutu seçin</string>
     <string name="lockpattern_settings_enable_error_path_title">Desen hatasını göster</string>
     <string name="lockpattern_settings_enable_dots_title">Desen noktalarını göster</string>

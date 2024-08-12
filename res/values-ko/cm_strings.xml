@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">장갑을 착용해도 터치할 수 있도록 터치스크린 감도를 향상</string>
     <string name="berry_black_theme_title">검정색</string>
     <string name="berry_black_theme_summary">어두운 테마 사용 시 완전 검정색 배경 사용</string>
+    <string name="status_bar_double_tap_to_sleep_title">두드려 화면 끄기</string>
+    <string name="status_bar_double_tap_to_sleep_summary">상태 표시줄이나 잠금 화면을 두 번 두드려 화면 끄기</string>
     <string name="lock_settings_picker_pattern_size_message">패턴의 크기를 선택하세요</string>
     <string name="lockpattern_settings_enable_error_path_title">패턴 오류 표시</string>
     <string name="lockpattern_settings_enable_dots_title">패턴 점 표시</string>

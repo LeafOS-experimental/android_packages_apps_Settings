@@ -19,6 +19,8 @@
     <string name="fast_charging_summary">Onemogućite kako biste smanjili toplinu koju uređaj proizvodi tijekom punjenja ili produljili vijek trajanja baterije</string>
     <string name="high_touch_sensitivity_title">Visoka osjetljivost na dodir</string>
     <string name="high_touch_sensitivity_summary">Povećaj osjetljivost na dodir tako da se mogu koristiti rukavice</string>
+    <string name="status_bar_double_tap_to_sleep_title">Dodir za spavanje</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dvaput dodirnite traku statusa na zaključanom zaslonu za isključivanje zaslona</string>
     <string name="lock_settings_picker_pattern_size_message">Odaberite veličinu uzorka</string>
     <string name="lockpattern_settings_enable_error_path_title">Pokaži grešku uzorka</string>
     <string name="lockpattern_settings_enable_dots_title">Pokaži točke uzorka</string>

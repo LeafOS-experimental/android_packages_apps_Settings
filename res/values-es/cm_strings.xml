@@ -19,6 +19,8 @@
     <string name="high_touch_sensitivity_summary">Incrementar la sensibilidad del panel táctil para que pueda usarse llevando guantes</string>
     <string name="berry_black_theme_title">Negro puro</string>
     <string name="berry_black_theme_summary">Fondo negro puro para el tema oscuro</string>
+    <string name="status_bar_double_tap_to_sleep_title">Pulsar para suspender</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Doble toque en la barra de estado o pantalla de bloqueo para apagar la pantalla</string>
     <string name="lock_settings_picker_pattern_size_message">Elije un tamaño de patrón</string>
     <string name="lockpattern_settings_enable_error_path_title">Mostrar patrón erróneo</string>
     <string name="lockpattern_settings_enable_dots_title">Mostrar puntos de patrón</string>

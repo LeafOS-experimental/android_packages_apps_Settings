@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Αύξηση της ευαισθησίας της οθόνης αφής έτσι ώστε να μπορεί να χρησιμοποιηθεί φορώντας γάντια</string>
     <string name="berry_black_theme_title">Αμιγές μαύρο</string>
     <string name="berry_black_theme_summary">Αμιγές μαύρο παρασκήνιο για το σκοτεινό θέμα</string>
+    <string name="status_bar_double_tap_to_sleep_title">Πατήστε για αναστολή</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Πατήστε δύο φορές στη γραμμή κατάστασης ή την οθόνη κλειδώματος για αναστολή της συσκευής</string>
     <string name="lock_settings_picker_pattern_size_message">Επιλέξτε ένα μέγεθος μοτίβου</string>
     <string name="lockpattern_settings_enable_error_path_title">Εμφάνιση λάθος μοτίβου</string>
     <string name="lockpattern_settings_enable_dots_title">Εμφάνιση τελειών μοτίβου</string>

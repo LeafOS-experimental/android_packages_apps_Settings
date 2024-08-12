@@ -19,6 +19,7 @@
     <string name="high_touch_sensitivity_summary">Rnu ugar uḥulfu n ugdil ḥalam nezmer ad t-nesseqdec ula s iqeffazen</string>
     <string name="berry_black_theme_title">Aberkan zeddigen</string>
     <string name="berry_black_theme_summary">Agilal aberkan zeddigen i usentel aberkan</string>
+    <string name="status_bar_double_tap_to_sleep_title">Tekki akken ad yeṭṭes</string>
     <string name="lock_settings_picker_pattern_size_message">Fren tiddi n wudlif</string>
     <string name="lockpattern_settings_enable_error_path_title">Sken tuccḍa n uzenziɣ</string>
     <string name="lockpattern_settings_enable_dots_title">Sken tinqiḍin n uzenziɣ</string>

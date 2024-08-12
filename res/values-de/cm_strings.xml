@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Touch-Empfindlichkeit erhöhen, um den Touchscreen auch mit Handschuhen bedienen zu können</string>
     <string name="berry_black_theme_title">Reines Schwarz</string>
     <string name="berry_black_theme_summary">Rein schwarzer Hintergrund für dunkles Design</string>
+    <string name="status_bar_double_tap_to_sleep_title">Tippen für Standby</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Doppeltippe auf Statusleiste oder Sperrbildschirm, um das Display auszuschalten</string>
     <string name="lock_settings_picker_pattern_size_message">Größe des Musters auswählen</string>
     <string name="lockpattern_settings_enable_error_path_title">Sperrmuster-Fehler anzeigen</string>
     <string name="lockpattern_settings_enable_dots_title">Sperrmuster-Punkte anzeigen</string>

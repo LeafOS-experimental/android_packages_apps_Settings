@@ -19,6 +19,7 @@
     <string name="high_touch_sensitivity_summary">Öka tryckskärmens känslighet så att den kan användas samtidigt som du bär handskar</string>
     <string name="berry_black_theme_title">Helsvart</string>
     <string name="berry_black_theme_summary">Helsvart bakgrund för mörkt tema</string>
+    <string name="status_bar_double_tap_to_sleep_title">Dubbeltryck för att släcka skärmen</string>
     <string name="lockpattern_settings_enable_error_path_title">Visa mönster vid fel</string>
     <string name="lockpattern_settings_enable_dots_title">Visa mönsterpunkter</string>
     <string name="unlock_scramble_pin_layout_title">Kasta om layout</string>

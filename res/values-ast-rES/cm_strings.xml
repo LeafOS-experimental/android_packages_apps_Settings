@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Aumenta la sensibilidá de la pantalla táctil pa que puedas usala mentanto lleves guantes</string>
     <string name="berry_black_theme_title">Prietu puro</string>
     <string name="berry_black_theme_summary">Un fondu en prieto puro pal estilu «Escuridá»</string>
+    <string name="status_bar_double_tap_to_sleep_title">Tocar pa dormir</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Toca dos vegaes na barra d\'estáu o na pantalla de bloquéu p\'apagar la pantalla</string>
     <string name="lockpattern_settings_enable_error_path_title">Amosar los patrones incorreutos</string>
     <string name="lockpattern_settings_enable_dots_title">Amosar los puntos del patrón</string>
     <string name="max_refresh_rate_title">Tasa d\'anovamientu máxima</string>
@@ -31,6 +33,11 @@
     <string name="tethering_allow_vpn_upstreams_summary">Permite que los veceros del puntu Wi-Fi usen les conexones VPN d\u2019esti preséu pa la conectividá</string>
     <string name="assisted_gps">Usar el GPS asistíu</string>
     <string name="assisted_gps_summary">Baxa los datos d\'asistencia satelitales d\'internet que puen ameyorar muncho\'l rindimientu inicial del GPS. Pa les llamaes d\'emerxencia, el GPS asistíu permítese siempres.</string>
+    <string name="battery_technology">Teunoloxía</string>
+    <string name="battery_temperature">Temperatura</string>
+    <string name="battery_voltage">Voltaxe</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
     <string name="power_menu_advanced_restart_title">Reaniciu avanzáu</string>
     <string name="power_menu_advanced_restart_summary">Al desbloquiar, inclúi les opciones pa reaniciar al mou de recuperación o al cargador d\'arrinque nel menú d\'apagáu</string>
     <string name="display_rotation_unit">graos</string>

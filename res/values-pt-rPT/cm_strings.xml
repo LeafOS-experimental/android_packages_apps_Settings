@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Aumentar a sensibilidade do ecrã para ser manuseado quando estiver a usar luvas</string>
     <string name="berry_black_theme_title">Preto puro</string>
     <string name="berry_black_theme_summary">Fundo em preto puro para tema escuro</string>
+    <string name="status_bar_double_tap_to_sleep_title">Toque duplo para desligar o ecrã</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dê um toque duplo na barra de estado ou ecrã de bloqueio para desligar o ecrã</string>
     <string name="lock_settings_picker_pattern_size_message">Escolha um tamanho para o padrão</string>
     <string name="lockpattern_settings_enable_error_path_title">Mostrar erro no padrão</string>
     <string name="lockpattern_settings_enable_dots_title">Mostrar os pontos do padrão</string>

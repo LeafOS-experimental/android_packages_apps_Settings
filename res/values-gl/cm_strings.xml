@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Aumentar a sensibilidade da pantalla para poder utilizalo con luvas</string>
     <string name="berry_black_theme_title">Negro puro</string>
     <string name="berry_black_theme_summary">Fondo negro puro para o tema escuro</string>
+    <string name="status_bar_double_tap_to_sleep_title">Tocar para suspender</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Duplo toque na barra de estado ou na pantalla de bloqueo para apagar a pantalla</string>
     <string name="lock_settings_picker_pattern_size_message">Escolle un tamaño para o patrón</string>
     <string name="lockpattern_settings_enable_error_path_title">Mostrar erro do padrón</string>
     <string name="lockpattern_settings_enable_dots_title">Mostrar puntos do padrón</string>

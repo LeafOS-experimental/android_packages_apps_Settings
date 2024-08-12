@@ -17,6 +17,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="high_touch_sensitivity_title">Висока чутливість дотику</string>
     <string name="high_touch_sensitivity_summary">Підвищити чутливість сенсорного екрану для користуванням пристроєм у рукавичках</string>
+    <string name="status_bar_double_tap_to_sleep_title">Торкніться для сну</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Двічі торкніть рядок стану чи екран блокування, щоб приспати екран</string>
     <string name="lock_settings_picker_pattern_size_message">Оберіть розмір шаблону</string>
     <string name="lockpattern_settings_enable_error_path_title">Показувати неправильний ключ</string>
     <string name="lockpattern_settings_enable_dots_title">Показувати точки</string>

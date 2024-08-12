@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Meudaich mothalachd na sgrìn-shuathaidh ach an gabh a cleachdadh le miotagan</string>
     <string name="berry_black_theme_title">Dubh</string>
     <string name="berry_black_theme_summary">Cleachd cùlaibh dubh leis an ùrlar dhorcha</string>
+    <string name="status_bar_double_tap_to_sleep_title">Thoir gnogag airson cadal</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Thoir gnogag dhùbailte air bàr na staid no air an sgrìn-ghlasaidh gus an uidheam-taisbeanaidh a chur dheth</string>
     <string name="lock_settings_picker_pattern_size_message">Tagh meud a’ phàtrain</string>
     <string name="lockpattern_settings_enable_error_path_title">Seall mearachd a’ phàtrain</string>
     <string name="lockpattern_settings_enable_dots_title">Seall dotagan a’ phàtrain</string>

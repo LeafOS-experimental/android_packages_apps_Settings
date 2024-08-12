@@ -18,6 +18,8 @@
     <string name="fast_charging_summary">Адключыць, каб паменшыць нагрэў прылады падчас зарадкі або падоўжыць тэрмін службы акумулятара</string>
     <string name="high_touch_sensitivity_title">Высокая адчувальнасць дотыку</string>
     <string name="high_touch_sensitivity_summary">Павялічыць адчувальнасць экрана для магчымасці працы ў пальчатках</string>
+    <string name="status_bar_double_tap_to_sleep_title">Націсніце для сну</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Двойчы націсніце на панэль стану або экран блакіроўкі, каб перавесці прыладу ў рэжым сну</string>
     <string name="lock_settings_picker_pattern_size_message">Выберыце памер графічнага ключа</string>
     <string name="lockpattern_settings_enable_error_path_title">Паказваць няправільны ўвод</string>
     <string name="lockpattern_settings_enable_dots_title">Паказваць кропкі</string>

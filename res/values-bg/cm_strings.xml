@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Увеличи сензорната чувствителност, така че може да се използва докато носите ръкавици</string>
     <string name="berry_black_theme_title">Натурално черно</string>
     <string name="berry_black_theme_summary">Натурален черен фон за тъмна тема</string>
+    <string name="status_bar_double_tap_to_sleep_title">Натиснете, за заспиване</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Докоснете двукратно лентата на състоянието или заключващия екран, за да изключите дисплея</string>
     <string name="lock_settings_picker_pattern_size_message">Изберете размера на шаблона</string>
     <string name="lockpattern_settings_enable_error_path_title">Покажи модела на грешката</string>
     <string name="lockpattern_settings_enable_dots_title">Покажи точките на модела</string>

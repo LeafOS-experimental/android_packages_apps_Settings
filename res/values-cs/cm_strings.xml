@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Zvýšení citlivosti dotykové vrstvy, což umožňuje použít rukavice</string>
     <string name="berry_black_theme_title">Čistě černý</string>
     <string name="berry_black_theme_summary">Čistě černé pozadí při tmavém motivu</string>
+    <string name="status_bar_double_tap_to_sleep_title">Klepnutím uspat</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dvojitým poklepáním na stavovou lištu nebo zamykací obrazovku vypnout obrazovku</string>
     <string name="lock_settings_picker_pattern_size_message">Zvolit velikost vzoru</string>
     <string name="lockpattern_settings_enable_error_path_title">Zobrazit cestu chybného gesta</string>
     <string name="lockpattern_settings_enable_dots_title">Zobrazit body gesta</string>

@@ -19,6 +19,8 @@
     <string name="fast_charging_summary">Deaktiver for at reducere den varme, der produceres af enheden, mens du oplader og forlæng batteriets levetid</string>
     <string name="high_touch_sensitivity_title">Høj berøringsfølsomhed</string>
     <string name="high_touch_sensitivity_summary">Forøg berøringsfølsom skærms følsomhed, så den kan bruges med handsker på</string>
+    <string name="status_bar_double_tap_to_sleep_title">Tryk for at slumre</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dobbelt-tryk på statusbjælken eller låseskærmen, for at slukke for skærmen</string>
     <string name="lock_settings_picker_pattern_size_message">Vælg en mønsterstørrelse</string>
     <string name="lockpattern_settings_enable_error_path_title">Vis mønster-fejl</string>
     <string name="lockpattern_settings_enable_dots_title">Vis mønster-prikker</string>

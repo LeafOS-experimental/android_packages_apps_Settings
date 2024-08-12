@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Zvýšiť citlivosť dotykovej obrazovky, takže ju bude možné používať pri nosení rukavíc</string>
     <string name="berry_black_theme_title">Čistá čierna</string>
     <string name="berry_black_theme_summary">Čisto čierne pozadie pre tmavú tému vzhľadu</string>
+    <string name="status_bar_double_tap_to_sleep_title">Kliknutím uspať</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Vypnúť obrazovku dvojklikom na stavový riadok alebo na obrazovku uzamknutia</string>
     <string name="lock_settings_picker_pattern_size_message">Zvoliť veľkosť vzoru</string>
     <string name="lockpattern_settings_enable_error_path_title">Zobraziť chybu vzoru</string>
     <string name="lockpattern_settings_enable_dots_title">Zobraziť body vzoru</string>

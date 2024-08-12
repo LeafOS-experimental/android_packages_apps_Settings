@@ -17,6 +17,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="high_touch_sensitivity_title">רגישות גבוהה למגע</string>
     <string name="high_touch_sensitivity_summary">הגבר את רגישות מסך המגע, כך שניתן יהיה להשתמש בו בעת לבישת כפפות</string>
+    <string name="status_bar_double_tap_to_sleep_title">הקש בכדי לכבות מסך</string>
+    <string name="status_bar_double_tap_to_sleep_summary">הקש פעמיים על שורת המצב או על מסך נעילה בכדי לכבות את המסך</string>
     <string name="lock_settings_picker_pattern_size_message">בחר גודל תבנית</string>
     <string name="lockpattern_settings_enable_error_path_title">הצג שגיאות דפוס</string>
     <string name="lockpattern_settings_enable_dots_title">הצג נקודות דפוס</string>

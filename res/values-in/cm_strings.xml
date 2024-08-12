@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Tingkatkan kepekaan layar sentuh sehingga dapat digunakan saat mengenakan sarung tangan</string>
     <string name="berry_black_theme_title">Hitam</string>
     <string name="berry_black_theme_summary">Latar belakang hitam untuk tema gelap</string>
+    <string name="status_bar_double_tap_to_sleep_title">Ketuk untuk tidur</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Ketukan ganda pada bilah status atau layar kunci untuk mematikan layar</string>
     <string name="lock_settings_picker_pattern_size_message">Pilih ukuran pola</string>
     <string name="lockpattern_settings_enable_error_path_title">Tunjukkan galat pola</string>
     <string name="lockpattern_settings_enable_dots_title">Tunjukkan titik-titik pola</string>

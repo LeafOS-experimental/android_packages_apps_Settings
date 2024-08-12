@@ -22,6 +22,8 @@
     <string name="high_touch_sensitivity_summary">Auka næmni snertiskjás svo hægt sé að nota hann íklæddur vettlingum</string>
     <string name="berry_black_theme_title">Hreint svart</string>
     <string name="berry_black_theme_summary">Hreinn svartur bakgrunnur í dökku þema</string>
+    <string name="status_bar_double_tap_to_sleep_title">Ýttu til að svæfa</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Tvíbankaðu á stöðustikuna eða læsiskjáinn til að slökkva á skjánum</string>
     <string name="lock_settings_picker_pattern_size_message">Veldu stærð mynsturs</string>
     <string name="lockpattern_settings_enable_error_path_title">Birta villu í mynstri</string>
     <string name="lockpattern_settings_enable_dots_title">Sýna mynsturpunkta</string>

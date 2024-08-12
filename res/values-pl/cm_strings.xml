@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Zwiększa czułość ekranu dotykowego, więc możesz go używać podczas noszenia rękawiczek</string>
     <string name="berry_black_theme_title">Czysta czerń</string>
     <string name="berry_black_theme_summary">Czysta czerń tła dla ciemnego motywu</string>
+    <string name="status_bar_double_tap_to_sleep_title">Dotknij, by uśpić</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dotknij dwukrotnie na pasku stanu lub ekranie blokady, aby wyłączyć ekran</string>
     <string name="lock_settings_picker_pattern_size_message">Wybierz rozmiar wzoru</string>
     <string name="lockpattern_settings_enable_error_path_title">Pokazuj błędny wzór</string>
     <string name="lockpattern_settings_enable_dots_title">Pokazuj punkty wzoru</string>

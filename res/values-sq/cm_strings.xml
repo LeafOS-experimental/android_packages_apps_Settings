@@ -21,6 +21,8 @@
     <string name="high_touch_sensitivity_summary">Rrit ndjeshmërinë e prekjes kështu që mund të përdoret kur keni dorashka</string>
     <string name="berry_black_theme_title">E zezë e pastër</string>
     <string name="berry_black_theme_summary">Sfond i zi i pastër për temë të errët</string>
+    <string name="status_bar_double_tap_to_sleep_title">Shtyp për të fjetur</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Shtyp dy herë shiritin e ekranit ose mbyllekranin për të fikur ekranin</string>
     <string name="lock_settings_picker_pattern_size_message">Zgjidh madhësinë e modelit</string>
     <string name="lockpattern_settings_enable_error_path_title">Shfaq gabimet në vizatimin e modelit</string>
     <string name="lockpattern_settings_enable_dots_title">Shfaq pikat e modelit</string>

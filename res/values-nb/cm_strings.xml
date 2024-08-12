@@ -22,6 +22,8 @@
     <string name="lockpattern_settings_enable_dots_title">Vis mønster prikker</string>
     <string name="unlock_scramble_pin_layout_title">Endre layout</string>
     <string name="unlock_scramble_pin_layout_summary">Endre PIN layout når enheten låses opp</string>
+    <string name="status_bar_double_tap_to_sleep_title">Dobbelttrykk for å slukke skjermen</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dobbelttrykk på statuslinjen for å slå av skjermen</string>
     <string name="display_rotation_title">Rotasjonsinnstillinger</string>
     <string name="display_rotation_enabled">Auto-rotasjon er aktivert</string>
     <string name="display_rotation_disabled">Auto-rotasjon er deaktivert</string>
