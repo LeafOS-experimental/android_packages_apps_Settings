@@ -54,7 +54,7 @@
     <!-- QS panel style -->
     <string-array name="qs_style_entries">
         <item>@string/qs_style_default</item>
-        <item>@string/qs_style_round</item>
+        <item>@string/qs_tile_ui_style</item>
     </string-array>
 
     <string-array name="qs_style_values">

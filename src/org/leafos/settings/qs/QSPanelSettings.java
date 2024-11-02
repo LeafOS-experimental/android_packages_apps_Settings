@@ -51,8 +51,8 @@ public class QSPanelSettings extends DashboardFragment {
             }
         }
 
-        boolean qsStyleRound = Settings.Secure.getIntForUser(getContext().getContentResolver(),
-                Settings.Secure.QS_STYLE_ROUND, 1, UserHandle.USER_CURRENT) == 1;
+        boolean qsStyleRound = Settings.System.getIntForUser(getContext().getContentResolver(),
+                Settings.System.QS_TILE_UI_STYLE, 1, UserHandle.USER_CURRENT) == 1;
 
         if (!qsStyleRound) {
             for (String key : qsCustPreferences) {

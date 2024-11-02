@@ -55,7 +55,7 @@
         android:title="@string/category_name_qs_tiles">
 
         <com.android.settings.support.SecureSettingListPreference
-            android:key="qs_style_round"
+            android:key="qs_tile_ui_style"
             android:title="@string/qs_style_title"
             android:entries="@array/qs_style_entries"
             android:entryValues="@array/qs_style_values"

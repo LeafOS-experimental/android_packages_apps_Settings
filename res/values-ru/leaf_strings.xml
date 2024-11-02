@@ -36,7 +36,7 @@
     <string name="brightness_slider_style_thin">Тонкий</string>
     <string name="qs_style_title">Стиль шторки</string>
     <string name="qs_style_default">Стандартная (пилюли)</string>
-    <string name="qs_style_round">Кружочки (как в Android 11)</string>
+    <string name="qs_tile_ui_style">Кружочки (как в Android 11)</string>
     <string name="qs_columns">Количество иконок по горизонтали (когда развёрнуто)</string>
     <string name="qs_columns_landscape">Кол-во иконок по горизонтали (когда развёрнуто, в ландашфтном режиме)</string>
     <string name="qqs_columns">Количество иконок по горизонтали</string>

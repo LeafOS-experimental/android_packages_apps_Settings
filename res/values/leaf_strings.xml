@@ -70,7 +70,7 @@
     <!-- QS style -->
     <string name="qs_style_title">QS Panel style</string>
     <string name="qs_style_default">Large pill</string>
-    <string name="qs_style_round">Small circle</string>
+    <string name="qs_tile_ui_style">Small circle</string>
 
     <!-- QS columns customization -->
     <string name="qs_columns">QS columns in portrait</string>
